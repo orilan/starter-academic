@@ -34,8 +34,8 @@ education:
     institution: Korea University
     year: 2017
   - course: TEACH
-    institution: Uni Bonn/Uni Tsukuba
-    year: 2015
+    institution: Uni Bonn / Uni Tsukuba
+    year: 2015/16
   - course: BA in History/PoliSci
     institution: Korea University
     year: 2014
@@ -50,16 +50,10 @@ social:
   link: mailto:jngsyn@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: ""
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: ""
+  link: "https://twitter/eineine"
 - icon: github
   icon_pack: fab
   link: https://github.com/orilan
-- icon: linkedin
-  icon_pack: fab
-  link: ""
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
