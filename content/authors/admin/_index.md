@@ -33,8 +33,12 @@ education:
   - course: MA in History
     institution: Korea University
     year: 2017
+  - course: International Master Program
+    institution: University of Tsukuba
+    institution: University of Bonn
+    year: 2015
   - course: BA in History/PoliSci
-    institution: Massachusetts Institute of Technology
+    institution: Korea University
     year: 2014
 
 # Social/Academic Networking
