@@ -33,9 +33,8 @@ education:
   - course: MA in History
     institution: Korea University
     year: 2017
-  - course: International Master Program
-    institution: University of Tsukuba
-    institution: University of Bonn
+  - course: TEACH
+    institution: Uni Bonn/Uni Tsukuba
     year: 2015
   - course: BA in History/PoliSci
     institution: Korea University
@@ -48,19 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:jngsyn@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: ""
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: ""
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/orilan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: ""
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
