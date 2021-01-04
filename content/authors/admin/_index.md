@@ -10,7 +10,8 @@ role: Ph.D Candidate in History
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Martin-Luther-University Halle-Wittenberg
+- name: Martin-Luther-University
+Halle-Wittenberg
   url: https://www.uni-halle.de/
 
 # Short bio (displayed in user profile at end of posts)
